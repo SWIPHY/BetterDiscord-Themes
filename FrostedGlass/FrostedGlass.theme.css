@@ -1,11 +1,8 @@
 /**
  * @name Frosted Glass
- * @author Gibbu#1211
+ * @author SWIPHY#3670
  * @version 2.0.0
  * @description Display your picture of choice with adjustable blur and brightness. Dark theme is required.
- * @invite ZHthyCw
- * @donate https://paypal.me/IanRGibson
- * @authorId 174868361040232448
  * @source https://github.com/Gibbu/BetterDiscord-Themes/tree/master/FrostedGlass
  * @website https://gibbu.me/
 */
@@ -24,7 +21,7 @@
 
 :root {
   /* Background image variables */
-  --background-image: url('https://i.imgur.com/kYW2H5C.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url('https://i.ibb.co/jRdY5Ct/tokyo-revengers-bkg-pc.jpg'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 5px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
